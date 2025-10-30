@@ -6,7 +6,8 @@ The model serves as a baseline for future enhancements with more advanced machin
 Cardiovascular disease is the leading cause of death worldwide, and early risk detection is vital for prevention and timely intervention.
 Through this project, we aim to identify significant predictors of heart disease and develop a foundation for accurate, data-driven diagnosis.
 
-**Table of Contents**
+**Table of Contents**:
+
 Dataset Overview
 Objectives
 Project Workflow
