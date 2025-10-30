@@ -31,7 +31,7 @@ Build and evaluate a baseline Logistic Regression model for CVD prediction.
 Visualize key insights through statistical and graphical methods.
 
 **Workflow of project**:
-1. **Preliminary Data Analysis**:
+1. **Initial Data Analysis**:
 Data Inspection:
 Checked structure, missing values, and duplicates.
 Data Cleaning:
