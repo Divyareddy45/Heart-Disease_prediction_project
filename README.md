@@ -31,7 +31,7 @@ Build and evaluate a baseline Logistic Regression model for CVD prediction.
 Visualize key insights through statistical and graphical methods.
 
 **Workflow of project**:
-1. **Initial Data Analysis**:
+**Initial Data Analysis**:
 Data Inspection:
 Checked structure, missing values, and duplicates.
 Data Cleaning:
@@ -40,14 +40,14 @@ Treated missing categorical values using mode.
 Removed duplicates and corrected inconsistencies.
 Checked for and handled outliers that could bias results.
 
-3. **Exploratory Data Analysis (EDA)**:
+**Exploratory Data Analysis (EDA)**:
 Generated summary statistics (mean, median, variance, standard deviation).
 Created count plots to analyze categorical distributions (e.g., gender, chest pain type).
 Examined CVD distribution across age groups and between genders.
 Explored relationships among key factors like blood pressure, cholesterol, and heart rate.
 Visualized pairwise correlations using pair plots and heatmaps.
 
-3. **Baseline Model — Logistic Regression**:
+**Baseline Model-Logistic Regression**:
 Built a Logistic Regression model to predict heart disease presence.
 Evaluated model using metrics like:
 Accuracy
@@ -57,7 +57,7 @@ Visualized performance with a confusion matrix.
 Identified correlations among all features to understand their combined effect on heart disease risk.
 Strong positive relationships were found between age, cholesterol, blood pressure, and CVD likelihood.
 
-Pair Plot Visualization
+**Pair Plot Visualization**:
 Generated pair plots for continuous variables such as age, cholesterol, thalach, oldpeak, and trestbps.
 These plots reveal how individual attributes interact and distinguish CVD from non-CVD cases.
 
