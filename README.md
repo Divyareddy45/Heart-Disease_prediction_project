@@ -1,4 +1,4 @@
-Heart Disease Prediction — Data Analysis and Preliminary Modeling
+Heart Disease Prediction — project
 Project Overview
 
 This project focuses on analyzing cardiovascular disease (CVD) data to uncover key factors influencing heart attack risk, such as age, cholesterol, and blood pressure.
