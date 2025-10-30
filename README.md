@@ -1,5 +1,6 @@
-**Heart Disease Prediction —
-Project Overview**:
+****Heart Disease Prediction**
+
+**Project Overview**:**
 This project focuses on analyzing cardiovascular disease (CVD) data to uncover key factors influencing heart attack risk, such as age, cholesterol, and blood pressure.
 After performing data cleaning and exploratory data analysis (EDA), a logistic regression model is built to predict the likelihood of CVD.
 The model serves as a baseline for future enhancements with more advanced machine learning techniques.
@@ -30,7 +31,8 @@ Conduct exploratory data analysis (EDA) to identify relationships between variab
 Build and evaluate a baseline Logistic Regression model for CVD prediction.
 Visualize key insights through statistical and graphical methods.
 
-**Workflow of project**:
+**Workflow of project**
+
 **Initial Data Analysis**:
 Data Inspection:
 Checked structure, missing values, and duplicates.
