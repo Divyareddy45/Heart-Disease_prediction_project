@@ -6,46 +6,6 @@ The model serves as a baseline for future enhancements with more advanced machin
 Cardiovascular disease is the leading cause of death worldwide, and early risk detection is vital for prevention and timely intervention.
 Through this project, we aim to identify significant predictors of heart disease and develop a foundation for accurate, data-driven diagnosis.
 
-**Table of Contents**:
-
-Dataset Overview
-
-Objectives
-
-Project Workflow
-
-Preliminary Data Analysis
-
-Data Inspection
-
-Data Cleaning
-
-Exploratory Data Analysis (EDA)
-
-Statistical Summary
-
-Categorical Variables
-
-CVD and Age Distribution
-
-Gender Distribution
-
-Resting Blood Pressure
-
-Cholesterol Levels
-
-Exercise Impact
-
-Thalassemia and CVD
-
-Factor Analysis
-
-Pair Plot Visualization
-
-Baseline Model — Logistic Regression
-
-Conclusion
-
 **Overview about data set**:
 The dataset includes medical records of patients with various clinical measurements relevant to heart health.
 Each record consists of features that may influence the presence of cardiovascular disease.
