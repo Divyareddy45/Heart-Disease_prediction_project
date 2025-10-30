@@ -1,5 +1,5 @@
 **Heart Disease Prediction —
-Project Overview**
+Project Overview**:
 This project focuses on analyzing cardiovascular disease (CVD) data to uncover key factors influencing heart attack risk, such as age, cholesterol, and blood pressure.
 After performing data cleaning and exploratory data analysis (EDA), a logistic regression model is built to predict the likelihood of CVD.
 The model serves as a baseline for future enhancements with more advanced machine learning techniques.
@@ -46,11 +46,11 @@ Baseline Model — Logistic Regression
 
 Conclusion
 
-**Overview about data set**
+**Overview about data set**:
 The dataset includes medical records of patients with various clinical measurements relevant to heart health.
 Each record consists of features that may influence the presence of cardiovascular disease.
 
-**Key Attributes Include:**
+**Key Attributes Include**:
 age: Age of the patient
 sex: Gender (1 = male, 0 = female)
 trestbps: Resting blood pressure (in mm Hg)
@@ -64,14 +64,14 @@ ca: Number of major vessels (0–3) colored by fluoroscopy
 thal: Thalassemia (3 = normal, 6 = fixed defect, 7 = reversible defect)
 target: Presence of CVD (1 = yes, 0 = no)
 
-**Objectives**
+**Objectives**:
 Perform data inspection and cleaning to ensure dataset quality.
 Conduct exploratory data analysis (EDA) to identify relationships between variables.
 Build and evaluate a baseline Logistic Regression model for CVD prediction.
 Visualize key insights through statistical and graphical methods.
 
-**Workflow of project**
-1. **Preliminary Data Analysis**
+**Workflow of project**:
+1. **Preliminary Data Analysis**:
 Data Inspection:
 Checked structure, missing values, and duplicates.
 Data Cleaning:
@@ -80,7 +80,7 @@ Treated missing categorical values using mode.
 Removed duplicates and corrected inconsistencies.
 Checked for and handled outliers that could bias results.
 
-3. **Exploratory Data Analysis (EDA):**
+3. **Exploratory Data Analysis (EDA)**:
 Generated summary statistics (mean, median, variance, standard deviation).
 Created count plots to analyze categorical distributions (e.g., gender, chest pain type).
 Examined CVD distribution across age groups and between genders.
@@ -102,7 +102,7 @@ Generated pair plots for continuous variables such as age, cholesterol, thalach,
 These plots reveal how individual attributes interact and distinguish CVD from non-CVD cases.
 
 
-**Conclusion**
+**Conclusion**:
 The exploratory data analysis revealed that factors such as age, gender, cholesterol, resting blood pressure, 
 and exercise play a crucial role in determining heart disease risk.
 The logistic regression model serves as an initial predictive framework, 
