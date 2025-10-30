@@ -9,23 +9,41 @@ Through this project, we aim to identify significant predictors of heart disease
 **Table of Contents**:
 
 Dataset Overview
+
 Objectives
+
 Project Workflow
+
 Preliminary Data Analysis
+
 Data Inspection
+
 Data Cleaning
+
 Exploratory Data Analysis (EDA)
+
 Statistical Summary
+
 Categorical Variables
+
 CVD and Age Distribution
+
 Gender Distribution
+
 Resting Blood Pressure
+
 Cholesterol Levels
+
 Exercise Impact
+
 Thalassemia and CVD
+
 Factor Analysis
+
 Pair Plot Visualization
+
 Baseline Model — Logistic Regression
+
 Conclusion
 
 **Overview about data set**
